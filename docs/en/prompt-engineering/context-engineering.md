@@ -106,6 +106,6 @@ Rule of thumb: after using a tool output, **don’t re-inject** the raw content 
 
 ## References
 
-- `https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents` — MVC, JIT, compaction, note-taking, subagents; warns about context rot.
-- `https://cursor.com/blog/agent-best-practices` — context management in real agent workflows.
+- [https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — MVC, JIT, compaction, note-taking, subagents; warns about context rot.
+- [https://cursor.com/blog/agent-best-practices](https://cursor.com/blog/agent-best-practices) — context management in real agent workflows.
 

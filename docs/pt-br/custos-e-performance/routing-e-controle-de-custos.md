@@ -90,7 +90,7 @@ Stop if:
 
 ## Referências
 
-- `https://www.getmaxim.ai/articles/reduce-llm-cost-and-latency-a-comprehensive-guide-for-2026/` — estratégias práticas de routing/caching/latency em produção.
-- `https://www.maviklabs.com/blog/llm-cost-optimization-2026` — routing + caching + batching como camadas; foco em governança de custos.
-- `https://docs.vllm.ai/en/latest/features/speculative_decoding/` — serving otimizado (batching/decoding) quando você controla inferência.
+- [https://www.getmaxim.ai/articles/reduce-llm-cost-and-latency-a-comprehensive-guide-for-2026/](https://www.getmaxim.ai/articles/reduce-llm-cost-and-latency-a-comprehensive-guide-for-2026/) — estratégias práticas de routing/caching/latency em produção.
+- [https://www.maviklabs.com/blog/llm-cost-optimization-2026](https://www.maviklabs.com/blog/llm-cost-optimization-2026) — routing + caching + batching como camadas; foco em governança de custos.
+- [https://docs.vllm.ai/en/latest/features/speculative_decoding/](https://docs.vllm.ai/en/latest/features/speculative_decoding/) — serving otimizado (batching/decoding) quando você controla inferência.
 

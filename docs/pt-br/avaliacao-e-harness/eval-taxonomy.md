@@ -60,6 +60,6 @@ Critérios (0–2 cada):
 
 ## Referências
 
-- `https://arxiv.org/html/2604.01527v1` — defende exec-based (fail-to-pass tests) e mostra impacto do harness/tooling.
-- `https://www.swebench.com/` — benchmark repo-level amplamente usado; útil para comparar agentes.
+- [https://arxiv.org/html/2604.01527v1](https://arxiv.org/html/2604.01527v1) — defende exec-based (fail-to-pass tests) e mostra impacto do harness/tooling.
+- [https://www.swebench.com/](https://www.swebench.com/) — benchmark repo-level amplamente usado; útil para comparar agentes.
 

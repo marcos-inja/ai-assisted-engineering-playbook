@@ -72,5 +72,5 @@ Then: turn the map into a verifiable impact map.
 
 ## References
 
-- `https://cursor.com/blog/agent-best-practices` — plan-first, context management, and how to make goals verifiable.
+- [https://cursor.com/blog/agent-best-practices](https://cursor.com/blog/agent-best-practices) — plan-first, context management, and how to make goals verifiable.
 

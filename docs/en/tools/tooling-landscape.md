@@ -54,5 +54,5 @@
 
 ## References
 
-- `https://cursor.com/blog/agent-best-practices` — practical harness/rules/skills guidance and verifiable goals in IDE workflows.
+- [https://cursor.com/blog/agent-best-practices](https://cursor.com/blog/agent-best-practices) — practical harness/rules/skills guidance and verifiable goals in IDE workflows.
 

@@ -67,6 +67,6 @@ Estratégias:
 
 ## Referências
 
-- `https://arxiv.org/html/2604.01527v1` — mostra valor de validação (tests/static analysis) no loop e de sinais exec-based (F2P).
-- `https://arxiv.org/html/2603.17973v1` — TDAD: impacto de prompting TDD “procedural” vs fornecer contexto/impact analysis para reduzir regressões.
+- [https://arxiv.org/html/2604.01527v1](https://arxiv.org/html/2604.01527v1) — mostra valor de validação (tests/static analysis) no loop e de sinais exec-based (F2P).
+- [https://arxiv.org/html/2603.17973v1](https://arxiv.org/html/2603.17973v1) — TDAD: impacto de prompting TDD “procedural” vs fornecer contexto/impact analysis para reduzir regressões.
 

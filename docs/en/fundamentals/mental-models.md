@@ -88,6 +88,6 @@ Operational rule: when it fails, record **which gate** was missing:
 
 ## References
 
-- `https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents` — defines context engineering, MVC, compaction, note-taking, and subagents; explains why more context can get worse.
-- `https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development` — practical harness blueprint (impact map + task template + checkpoint).
+- [https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — defines context engineering, MVC, compaction, note-taking, and subagents; explains why more context can get worse.
+- [https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development](https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development) — practical harness blueprint (impact map + task template + checkpoint).
 

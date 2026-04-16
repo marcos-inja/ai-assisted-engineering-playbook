@@ -54,5 +54,5 @@
 
 ## Referências
 
-- `https://cursor.com/blog/agent-best-practices` — boas práticas de harness/rules/skills e objetivos verificáveis em IDE.
+- [https://cursor.com/blog/agent-best-practices](https://cursor.com/blog/agent-best-practices) — boas práticas de harness/rules/skills e objetivos verificáveis em IDE.
 

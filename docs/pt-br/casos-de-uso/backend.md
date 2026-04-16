@@ -64,6 +64,6 @@ Adicionar endpoint GET /v1/foo?bar=...
 
 ## Referências
 
-- `docs/arquitetura/harness-engineering.md` — impact map + task specs para evitar “módulo errado”.
-- `docs/avaliacao-e-harness/ci-gates-e-regressao.md` — gates e F2P/P2P para reduzir regressão.
+- [../arquitetura/harness-engineering.md](../arquitetura/harness-engineering.md) — impact map + task specs para evitar “módulo errado”.
+- [../avaliacao-e-harness/ci-gates-e-regressao.md](../avaliacao-e-harness/ci-gates-e-regressao.md) — gates e F2P/P2P para reduzir regressão.
 

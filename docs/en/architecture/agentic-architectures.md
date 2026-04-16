@@ -71,6 +71,6 @@ When designing internal tools, prefer:
 
 ## References
 
-- `https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents` — minimal toolsets, JIT context, subagents.
-- `https://arxiv.org/html/2604.01527v1` — strong (IDE-like) harness improves performance; validation tool usage correlates with solve rate.
+- [https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — minimal toolsets, JIT context, subagents.
+- [https://arxiv.org/html/2604.01527v1](https://arxiv.org/html/2604.01527v1) — strong (IDE-like) harness improves performance; validation tool usage correlates with solve rate.
 

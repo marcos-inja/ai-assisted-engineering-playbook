@@ -50,6 +50,6 @@ Plano de rollout: <se aplicável>
 
 ## Referências
 
-- `docs/arquitetura/harness-engineering.md` — impact map + task specs.
-- `docs/avaliacao-e-harness/ci-gates-e-regressao.md` — gates e regressão.
+- [../arquitetura/harness-engineering.md](../arquitetura/harness-engineering.md) — impact map + task specs.
+- [../avaliacao-e-harness/ci-gates-e-regressao.md](../avaliacao-e-harness/ci-gates-e-regressao.md) — gates e regressão.
 

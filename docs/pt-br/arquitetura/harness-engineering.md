@@ -87,6 +87,6 @@ Regras:
 
 ## Referências
 
-- `https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development` — descreve impact map + task template + checkpoint humano como redução de “erros estruturais”.
-- `https://arxiv.org/html/2604.01527v1` — evidencia que harness IDE-like + validação (tests/static checks) aumenta solve rate e reduz gap entre modelos.
+- [https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development](https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development) — descreve impact map + task template + checkpoint humano como redução de “erros estruturais”.
+- [https://arxiv.org/html/2604.01527v1](https://arxiv.org/html/2604.01527v1) — evidencia que harness IDE-like + validação (tests/static checks) aumenta solve rate e reduz gap entre modelos.
 

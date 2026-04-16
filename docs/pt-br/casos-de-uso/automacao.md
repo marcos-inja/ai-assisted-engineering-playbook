@@ -37,5 +37,5 @@
 
 ## Referências
 
-- `docs/custos-e-performance/routing-e-controle-de-custos.md` — roteamento, cache e gates.
+- [../custos-e-performance/routing-e-controle-de-custos.md](../custos-e-performance/routing-e-controle-de-custos.md) — roteamento, cache e gates.
 

@@ -53,6 +53,6 @@ Acceptance:
 
 ## References
 
-- `docs/en/architecture/agentic-architectures.md` — tool contracts and observability.
-- `docs/en/costs-and-performance/routing-and-cost-controls.md` — budgets, circuit breaker, retries.
+- [../architecture/agentic-architectures.md](../architecture/agentic-architectures.md) — tool contracts and observability.
+- [../costs-and-performance/routing-and-cost-controls.md](../costs-and-performance/routing-and-cost-controls.md) — budgets, circuit breaker, retries.
 

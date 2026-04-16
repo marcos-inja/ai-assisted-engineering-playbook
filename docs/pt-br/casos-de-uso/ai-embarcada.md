@@ -54,7 +54,7 @@ Se não houver evidência, responder “não sei” e pedir fonte.
 
 ## Referências
 
-- `docs/avaliacao-e-harness/eval-taxonomy.md` — como escolher métricas e oráculos confiáveis.
-- `docs/custos-e-performance/routing-e-controle-de-custos.md` — budgets, caching, fallback.
-- `docs/ferramentas/tool-use-patterns.md` — contratos de tools e loops agentic.
+- [../avaliacao-e-harness/eval-taxonomy.md](../avaliacao-e-harness/eval-taxonomy.md) — como escolher métricas e oráculos confiáveis.
+- [../custos-e-performance/routing-e-controle-de-custos.md](../custos-e-performance/routing-e-controle-de-custos.md) — budgets, caching, fallback.
+- [../ferramentas/tool-use-patterns.md](../ferramentas/tool-use-patterns.md) — contratos de tools e loops agentic.
 

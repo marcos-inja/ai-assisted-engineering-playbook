@@ -39,6 +39,6 @@
 
 ## References
 
-- `docs/en/costs-and-performance/routing-and-cost-controls.md`
-- `docs/en/evaluation-and-harness/eval-taxonomy.md`
+- [../costs-and-performance/routing-and-cost-controls.md](../costs-and-performance/routing-and-cost-controls.md)
+- [../evaluation-and-harness/eval-taxonomy.md](../evaluation-and-harness/eval-taxonomy.md)
 

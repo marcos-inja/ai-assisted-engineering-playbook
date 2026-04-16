@@ -60,6 +60,6 @@ Tool output:
 
 ## Referências
 
-- `https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents` — toolsets mínimos, overlap baixo, JIT context.
-- `https://www.promptingguide.ai/agents/function-calling` — visão geral prática de function calling em agentes.
+- [https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — toolsets mínimos, overlap baixo, JIT context.
+- [https://www.promptingguide.ai/agents/function-calling](https://www.promptingguide.ai/agents/function-calling) — visão geral prática de function calling em agentes.
 

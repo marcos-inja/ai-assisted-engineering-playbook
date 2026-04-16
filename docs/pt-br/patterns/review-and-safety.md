@@ -57,5 +57,5 @@
 
 ## Referências
 
-- `docs/avaliacao-e-harness/ci-gates-e-regressao.md` — como estruturar gates por risco.
+- [../avaliacao-e-harness/ci-gates-e-regressao.md](../avaliacao-e-harness/ci-gates-e-regressao.md) — como estruturar gates por risco.
 

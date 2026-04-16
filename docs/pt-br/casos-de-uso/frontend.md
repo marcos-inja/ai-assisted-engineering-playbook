@@ -53,6 +53,6 @@ Aceite:
 
 ## Referências
 
-- `docs/prompt-engineering/prompts-avancados.md` — templates para rubricas e objetivos verificáveis.
-- `docs/avaliacao-e-harness/ci-gates-e-regressao.md` — gates por risco.
+- [../prompt-engineering/prompts-avancados.md](../prompt-engineering/prompts-avancados.md) — templates para rubricas e objetivos verificáveis.
+- [../avaliacao-e-harness/ci-gates-e-regressao.md](../avaliacao-e-harness/ci-gates-e-regressao.md) — gates por risco.
 

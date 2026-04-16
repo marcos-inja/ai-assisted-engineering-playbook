@@ -57,5 +57,5 @@
 
 ## References
 
-- `docs/en/evaluation-and-harness/ci-gates-and-regressions.md` — how to structure gates by risk.
+- [../evaluation-and-harness/ci-gates-and-regressions.md](../evaluation-and-harness/ci-gates-and-regressions.md) — how to structure gates by risk.
 

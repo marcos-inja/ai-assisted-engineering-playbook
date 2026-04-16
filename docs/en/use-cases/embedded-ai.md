@@ -54,7 +54,7 @@ If there is no evidence, answer “I don’t know” and request a source.
 
 ## References
 
-- `docs/en/evaluation-and-harness/eval-taxonomy.md` — how to pick trustworthy metrics and oracles.
-- `docs/en/costs-and-performance/routing-and-cost-controls.md` — budgets, caching, fallback.
-- `docs/en/tools/tool-use-patterns.md` — tool contracts and agentic loops.
+- [../evaluation-and-harness/eval-taxonomy.md](../evaluation-and-harness/eval-taxonomy.md) — how to pick trustworthy metrics and oracles.
+- [../costs-and-performance/routing-and-cost-controls.md](../costs-and-performance/routing-and-cost-controls.md) — budgets, caching, fallback.
+- [../tools/tool-use-patterns.md](../tools/tool-use-patterns.md) — tool contracts and agentic loops.
 

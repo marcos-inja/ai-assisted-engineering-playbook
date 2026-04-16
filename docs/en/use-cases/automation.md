@@ -37,5 +37,5 @@
 
 ## References
 
-- `docs/en/costs-and-performance/routing-and-cost-controls.md` — routing, caching, and gates.
+- [../costs-and-performance/routing-and-cost-controls.md](../costs-and-performance/routing-and-cost-controls.md) — routing, caching, and gates.
 

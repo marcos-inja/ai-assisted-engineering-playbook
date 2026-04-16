@@ -106,6 +106,6 @@ Regra prática: após usar um output de ferramenta, **não recoloque** o conteú
 
 ## Referências
 
-- `https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents` — MVC, JIT, compaction, note-taking e subagents; alerta sobre context rot.
-- `https://cursor.com/blog/agent-best-practices` — gestão de contexto em workflows reais com agentes.
+- [https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — MVC, JIT, compaction, note-taking e subagents; alerta sobre context rot.
+- [https://cursor.com/blog/agent-best-practices](https://cursor.com/blog/agent-best-practices) — gestão de contexto em workflows reais com agentes.
 

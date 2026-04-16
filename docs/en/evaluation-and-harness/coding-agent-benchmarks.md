@@ -42,8 +42,8 @@ Final decisions should include:
 
 ## References (what each gives you)
 
-- `https://www.swebench.com/` — repo-level benchmark with variants (Verified/Lite/etc.) to compare agents.
-- `https://www.swebench.com/verified.html` — human-validated subset; better for reliable comparisons.
-- `https://openreview.net/forum?id=n577FC6CKk` and `https://github.com/amazon-science/SWE-PolyBench` — SWE-PolyBench (multi-language), closer to polyglot environments.
-- `https://arxiv.org/html/2604.01527v1` — ProdCodeBench: methodology for “production-derived” benchmarks; shows tool-use/validation role and harness impact.
+- [https://www.swebench.com/](https://www.swebench.com/) — repo-level benchmark with variants (Verified/Lite/etc.) to compare agents.
+- [https://www.swebench.com/verified.html](https://www.swebench.com/verified.html) — human-validated subset; better for reliable comparisons.
+- [https://openreview.net/forum?id=n577FC6CKk](https://openreview.net/forum?id=n577FC6CKk) and [https://github.com/amazon-science/SWE-PolyBench](https://github.com/amazon-science/SWE-PolyBench) — SWE-PolyBench (multi-language), closer to polyglot environments.
+- [https://arxiv.org/html/2604.01527v1](https://arxiv.org/html/2604.01527v1) — ProdCodeBench: methodology for “production-derived” benchmarks; shows tool-use/validation role and harness impact.
 

@@ -81,6 +81,6 @@ For any diagnostic command:
 
 ## References
 
-- `https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents` — context as a finite resource; compaction, note-taking, subagents.
-- `https://redis.io/blog/llm-token-optimization-speed-up-apps/` — practical sources of token waste and containment strategies.
+- [https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — context as a finite resource; compaction, note-taking, subagents.
+- [https://redis.io/blog/llm-token-optimization-speed-up-apps/](https://redis.io/blog/llm-token-optimization-speed-up-apps/) — practical sources of token waste and containment strategies.
 

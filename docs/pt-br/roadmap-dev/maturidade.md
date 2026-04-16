@@ -39,6 +39,6 @@
 
 ## Referências
 
-- `docs/custos-e-performance/routing-e-controle-de-custos.md`
-- `docs/avaliacao-e-harness/eval-taxonomy.md`
+- [../custos-e-performance/routing-e-controle-de-custos.md](../custos-e-performance/routing-e-controle-de-custos.md)
+- [../avaliacao-e-harness/eval-taxonomy.md](../avaliacao-e-harness/eval-taxonomy.md)
 

@@ -93,7 +93,7 @@ Entregue:
 
 ## Referências
 
-- `https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development` — mostra como transformar “ticket” em task estruturada (paths + symbols + aceites).
-- `https://martinfowler.com/fragments/2026-01-08.html` — reforça TDD como forcing function para manter humano no loop.
-- `https://arxiv.org/html/2603.17973v1` — TDAD: evidência de que “TDD prompting” puro pode aumentar regressões; contexto e impact analysis importam.
+- [https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development](https://developers.redhat.com/articles/2026/04/07/harness-engineering-structured-workflows-ai-assisted-development) — mostra como transformar “ticket” em task estruturada (paths + symbols + aceites).
+- [https://martinfowler.com/fragments/2026-01-08.html](https://martinfowler.com/fragments/2026-01-08.html) — reforça TDD como forcing function para manter humano no loop.
+- [https://arxiv.org/html/2603.17973v1](https://arxiv.org/html/2603.17973v1) — TDAD: evidência de que “TDD prompting” puro pode aumentar regressões; contexto e impact analysis importam.
 

@@ -67,6 +67,6 @@ Strategies:
 
 ## References
 
-- `https://arxiv.org/html/2604.01527v1` — value of validation (tests/static analysis) in the loop and execution-based signals (F2P).
-- `https://arxiv.org/html/2603.17973v1` — TDAD: impact of procedural TDD prompting vs providing context/impact analysis to reduce regressions.
+- [https://arxiv.org/html/2604.01527v1](https://arxiv.org/html/2604.01527v1) — value of validation (tests/static analysis) in the loop and execution-based signals (F2P).
+- [https://arxiv.org/html/2603.17973v1](https://arxiv.org/html/2603.17973v1) — TDAD: impact of procedural TDD prompting vs providing context/impact analysis to reduce regressions.
 

@@ -72,5 +72,5 @@ Depois: transformar mapa em impact map verificável.
 
 ## Referências
 
-- `https://cursor.com/blog/agent-best-practices` — descreve plan-first, gestão de contexto e como tornar objetivos verificáveis.
+- [https://cursor.com/blog/agent-best-practices](https://cursor.com/blog/agent-best-practices) — descreve plan-first, gestão de contexto e como tornar objetivos verificáveis.
 

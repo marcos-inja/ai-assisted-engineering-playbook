@@ -53,6 +53,6 @@ Acceptance:
 
 ## References
 
-- `docs/en/prompt-engineering/advanced-prompts.md` — templates for rubrics and verifiable goals.
-- `docs/en/evaluation-and-harness/ci-gates-and-regressions.md` — risk-based gates.
+- [../prompt-engineering/advanced-prompts.md](../prompt-engineering/advanced-prompts.md) — templates for rubrics and verifiable goals.
+- [../evaluation-and-harness/ci-gates-and-regressions.md](../evaluation-and-harness/ci-gates-and-regressions.md) — risk-based gates.
 

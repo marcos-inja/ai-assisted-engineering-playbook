@@ -53,6 +53,6 @@ Aceite:
 
 ## Referências
 
-- `docs/arquitetura/agentic-architectures.md` — contratos de tools e observabilidade.
-- `docs/custos-e-performance/routing-e-controle-de-custos.md` — budgets, circuit breaker, retries.
+- [../arquitetura/agentic-architectures.md](../arquitetura/agentic-architectures.md) — contratos de tools e observabilidade.
+- [../custos-e-performance/routing-e-controle-de-custos.md](../custos-e-performance/routing-e-controle-de-custos.md) — budgets, circuit breaker, retries.
 

@@ -58,11 +58,11 @@ Para cada task:
 
 ### Template: task (pronto para agente)
 
-Veja `docs/arquitetura/harness-engineering.md` (task spec).
+Veja [../arquitetura/harness-engineering.md](../arquitetura/harness-engineering.md) (task spec).
 
 ## Referências
 
-- `https://developer.microsoft.com/blog/spec-driven-development-spec-kit` — visão prática de SDD e Spec Kit.
-- `https://github.com/github/spec-kit` — toolkit de referência (specify/plan/tasks/implement).
-- `https://martinfowler.com/fragments/2026-01-08.html` — crítica a “spec rígida” e foco em feedback loops (TDD).
+- [https://developer.microsoft.com/blog/spec-driven-development-spec-kit](https://developer.microsoft.com/blog/spec-driven-development-spec-kit) — visão prática de SDD e Spec Kit.
+- [https://github.com/github/spec-kit](https://github.com/github/spec-kit) — toolkit de referência (specify/plan/tasks/implement).
+- [https://martinfowler.com/fragments/2026-01-08.html](https://martinfowler.com/fragments/2026-01-08.html) — crítica a “spec rígida” e foco em feedback loops (TDD).
 
