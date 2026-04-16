@@ -5,23 +5,23 @@ Este repositório é um **material de referência prático** (PT-BR) para uso pr
 ## Como usar (mapa de leitura por objetivo)
 
 - **Quero aumentar qualidade e reduzir retrabalho**
-  - Comece por `[fundamentos/mental-models.md](./fundamentos/mental-models.md)`
-  - Depois `[arquitetura/harness-engineering.md](./arquitetura/harness-engineering.md)`
-  - Feche com `[avaliacao-e-harness/ci-gates-e-regressao.md](./avaliacao-e-harness/ci-gates-e-regressao.md)`
+  - Comece por [Fundamentos: modelos mentais](./fundamentos/mental-models.md)
+  - Depois [Arquitetura: harness engineering](./arquitetura/harness-engineering.md)
+  - Feche com [CI gates e regressão](./avaliacao-e-harness/ci-gates-e-regressao.md)
 - **Quero reduzir custo (tokens/inferência) sem perder qualidade**
-  - `[custos-e-performance/routing-e-controle-de-custos.md](./custos-e-performance/routing-e-controle-de-custos.md)`
-  - `[custos-e-performance/token-e-context-economy.md](./custos-e-performance/token-e-context-economy.md)`
+  - [Roteamento e controle de custos](./custos-e-performance/routing-e-controle-de-custos.md)
+  - [Token & context economy](./custos-e-performance/token-e-context-economy.md)
 - **Quero padronizar o uso de IA no time (processo e governança leve)**
-  - `[patterns/spec-driven-development.md](./patterns/spec-driven-development.md)`
-  - `[patterns/review-and-safety.md](./patterns/review-and-safety.md)`
-  - `[patterns/refactoring-and-migrations.md](./patterns/refactoring-and-migrations.md)`
-  - `[roadmap-dev/maturidade.md](./roadmap-dev/maturidade.md)`
+  - [Spec-driven development](./patterns/spec-driven-development.md)
+  - [Review e safety](./patterns/review-and-safety.md)
+  - [Refactors e migrações](./patterns/refactoring-and-migrations.md)
+  - [Roadmap de maturidade](./roadmap-dev/maturidade.md)
 - **Quero aplicar em um cenário específico**
-  - Backend: `[casos-de-uso/backend.md](./casos-de-uso/backend.md)`
-  - Frontend: `[casos-de-uso/frontend.md](./casos-de-uso/frontend.md)`
-  - DevOps/Cloud: `[casos-de-uso/devops-cloud.md](./casos-de-uso/devops-cloud.md)`
-  - Automação: `[casos-de-uso/automacao.md](./casos-de-uso/automacao.md)`
-  - IA embarcada (produto com LLM): `[casos-de-uso/ai-embarcada.md](./casos-de-uso/ai-embarcada.md)`
+  - Backend: [Caso de uso: backend](./casos-de-uso/backend.md)
+  - Frontend: [Caso de uso: frontend](./casos-de-uso/frontend.md)
+  - DevOps/Cloud: [Caso de uso: DevOps/Cloud](./casos-de-uso/devops-cloud.md)
+  - Automação: [Caso de uso: automação](./casos-de-uso/automacao.md)
+  - IA embarcada (produto com LLM): [Caso de uso: IA embarcada](./casos-de-uso/ai-embarcada.md)
 
 ## Convenções do conteúdo
 

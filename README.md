@@ -4,8 +4,8 @@ Advanced, practical guidance for **AI-assisted software engineering**: agent wor
 
 ## Documentation
 
-- **English**: [`docs/en/README.md`](docs/en/README.md)
-- **Português (Brasil)**: [`docs/pt-br/README.md`](docs/pt-br/README.md)
+- **English**: [docs/en/README.md](docs/en/README.md)
+- **Português (Brasil)**: [docs/pt-br/README.md](docs/pt-br/README.md)
 
 ## Badges
 
